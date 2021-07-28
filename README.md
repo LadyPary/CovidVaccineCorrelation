@@ -57,9 +57,9 @@ Using nationally representative data from the 204 countries around the world, I 
 **Political features** have a **stronger** correlation with people vaccinated per hundred than **social features**.
 
 People more likely to be vaccinated from countries that:
-1. The press has the freedom
-2. Has Liberal democracy or Electoral autocracy.
-3. More people have tertiary education.
+1. The press has the freedom,
+2. Has Liberal democracy or Electoral autocracy,
+3. More people have tertiary education,
 4. More people agree with vaccine safety.
 
 For future short-term or long-term plans to get more countries fully vaccinated, we have to first **democratize** the countries and ensure freedom of the press. For countries that already are democratized, we have to encourage people to pursue **higher education** after high school and expand people's medical knowledge to increase their **trust in doctors and nurses** and **vaccine safety**.
