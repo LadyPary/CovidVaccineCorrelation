@@ -39,9 +39,9 @@ Using data extracted from [Our World in Data](https://ourworldindata.org/) we ex
 
 The Methods used are:
 1. **Visualization** using choropleth maps, histograms, pie charts, and scatter plots, heat maps.
-<img src="pics/choroplethMap.png" alt="Choropleth Map demo" width="100%"/>
-<img src="pics/distributions.png" alt="Distributions demo" width="100%"/>
-<img src="pics/scatterPlot.png" alt="Scatter Plot demo" width="100%"/>
+<img src="pics/choroplethMap.png" alt="Choropleth Map demo" width="80%"/> 
+<img src="pics/distributions.png" alt="Distributions demo" width="80%"/>
+<img src="pics/scatterPlot.png" alt="Scatter Plot demo" width="80%"/>
 
 2. **Calculating the coefficient of correlation** using Spearman's Rank Correlation Coefficient and Pearson Correlation Coefficient.
 <img src="pics/heatMap.png" alt="Heat Map demo" width="100%"/>
