@@ -26,6 +26,8 @@ Here I present a data analysis on Covid-19 vaccination progress using machine le
 I group the reasons for the uneven distribution of vaccination around the world into two categories of **political** and **social** reasons. The political reasons represent the government's inadequacy and the social reasons represent vaccine hesitancy.
 
 Although correlation is not causation, we can still gain an insightful understanding of this matter. Figuring out what's causing the relationship would require richer research.
+
+[Link to the prezi slides](https://prezi.com/view/aDB9uKRPlVmgx5pnB93L/)
 ___
 ### Introduction
 Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the virus that causes COVID-19, reached pandemic status on March 11th, 2020. As of July 17th, 2021, the virus had spread to 213 countries and territories, infected over 190 million people, and resulted in over 4.08 million people deaths worldwide. The global solutions to slow the spread of the virus are social distancing and global vaccination.
