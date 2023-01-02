@@ -37,6 +37,7 @@ As COVID-19 is taking lives and damaging the economy, countries are trying to ge
 Using data extracted from [Our World in Data](https://ourworldindata.org/) we examine the possible correlations between the following features and the people vaccinated per hundred in each country:
 
 **Political features:** Freedom of the press status, Political regimes, Main religion, Trust in politicians
+
 **Social features:** Believe in vaccine safety, Higher education, Trust in doctors and nurses
 
 The Methods used are:
